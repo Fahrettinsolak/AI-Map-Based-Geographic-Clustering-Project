@@ -49,7 +49,7 @@ The clustering results show distinct geographic patterns where certain areas of 
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/sf-crime-clustering.git
+   git clone https://github.com/Fahrettinsolak/sf-crime-clustering.git
    cd sf-crime-clustering
    ```
 2. Install the required dependencies:
